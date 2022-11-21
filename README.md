@@ -13,6 +13,7 @@
 -   Jane Doe - [https://fosstodon.org/\@janedoe](https://fosstodon.org/@janedoe){.uri}
 
 -   Shel Kariuki - awaiting approval
+-   Erick Yegon - waiting approval
 
 <hr>
 
